@@ -20,14 +20,14 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 0,
+      "NativeAdRow"        : 5,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "",
-        "AdMobInterstitial"   : "",
-        "AdMobNative"         : "",
-        "AdMobOpenAd"         : "",
+        "AdMobBanner"         : "ca-app-pub-3147524971917133/3616267956",
+        "AdMobInterstitial"   : "ca-app-pub-3147524971917133/5589972407",
+        "AdMobNative"         : "ca-app-pub-3147524971917133/1293980076",
+        "AdMobOpenAd"         : "ca-app-pub-3147524971917133/7479700463",
         
         "FacebookBanner"      : "",
         "FacebookInterstitial": "",
